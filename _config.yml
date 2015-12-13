@@ -1,0 +1,28 @@
+name: Chito Graphics
+favicon: null
+layout_spectrum: 0.493011356331408
+typography_spectrum: 0.5950706454459578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.71006551082246
+  lightness: 0.9550719598773867
+  saturation: 0.061731260968372226
+  rhythmicContrast: 0.10878166439943016
+purpose: []
